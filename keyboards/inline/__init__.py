@@ -1,0 +1,2 @@
+
+from .mychannel import channels
